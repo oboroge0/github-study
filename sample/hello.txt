@@ -1,0 +1,12 @@
+Hello, World!
+
+This is a sample text file.
+Welcome to the GitHub study repository.
+
+You can edit this file to practice Git operations like:
+- git add
+- git commit
+- git push
+- git pull
+
+Happy learning!
